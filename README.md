@@ -1,2 +1,2 @@
 # iothub.github.io
-A virtual IoT hub made from your smartphone.
+A virtual IoT hub in your telegram chat
